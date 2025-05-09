@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Environment variables
+.env
+
+# MongoDB
+/db/
+*.db
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build & Dist folders
+dist/
+build/
+
+# Dependencies (if you're using a package lock manager like npm, yarn, or pnpm)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
