@@ -47,11 +47,11 @@ project-root/
 
 | Method | Endpoint          | Description        |
 | ------ | ----------------- | ------------------ |
-| GET    | `/api/course`     | Get all courses    |
-| GET    | `/api/course/:id` | Get a course by ID |
-| POST   | `/api/course`     | Add a new course   |
-| PUT    | `/api/course/:id` | Update a course    |
-| DELETE | `/api/course/:id` | Delete a course    |
+| GET    | `/api/courses`     | Get all courses    |
+| GET    | `/api/courses/:id` | Get a course by ID |
+| POST   | `/api/courses`     | Add a new course   |
+| PUT    | `/api/courses/:id` | Update a course    |
+| DELETE | `/api/courses/:id` | Delete a course    |
 
 ---
 
